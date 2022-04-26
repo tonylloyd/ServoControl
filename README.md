@@ -12,5 +12,6 @@ Help screen has also been updated with more context help and examples.
   
 This will now display a table of servo settings suitable for pasting into Servo.ino
 
-Original code by Robert Dowse @ Little Wicket Railway
+Original code by Robert Dowse @ Little Wicket Railway.
+  
 Updated by Anthony Lloyd @ Branksdown Model Railway / DATAjam Model Rail
