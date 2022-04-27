@@ -1,4 +1,7 @@
 # ServoControl
+
+## 🍴 This is forked from the project at Little Wicket Railway to give more functionality to the ServoControl settings sketch.
+
 Contains files for use with the YouTube tutorials.
 Visit https://www.youtube.com/watch?v=fHAPXAcW9ZQ to see the step by step guide.
 
