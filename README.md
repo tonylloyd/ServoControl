@@ -1,6 +1,6 @@
 # ServoControl
 
-## 🍴 This is forked from the project at Little Wicket Railway to give more functionality to the ServoControl settings sketch.
+## 🍴 This is forked from the project at Little Wicket Railway to give more functionality to the ServoControl settings sketch. My thanks to Rob for the videos he done on model railway electronics on his YouTube channel that have enabled me to do this.
 
 Contains files for use with the YouTube tutorials.
 Visit https://www.youtube.com/watch?v=fHAPXAcW9ZQ to see the step by step guide.
